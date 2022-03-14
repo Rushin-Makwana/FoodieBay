@@ -271,6 +271,13 @@ margin-left: 29%;
    margin-top: 5%;
 }
 }
+@media screen and (max-width: 550px)
+{.Box2 > p{
+        font-size: 15px;
+        margin-top: -2%;
+    }
+}
+
 @media screen and (max-width: 650px)
 {.Box1 {
     width: 37%;
